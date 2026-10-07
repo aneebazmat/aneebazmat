@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0077B5&height=200&section=header&text=Hafiz%20Aneeb%20Azmat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descAlignY=58&descSize=18" width="100%"/>
 
-
-
-
 Building full-stack web applications and continuously exploring Artificial Intelligence and Generative AI.<br/>
 Focused on MERN Stack, Next.js, TypeScript, Backend Engineering, and AI-powered applications.<br/>
-📍 Lahore, Pakistan 🇵🇰
+📍 Lahore, Pakistan 🇵🇰 — open to opportunities, collaborations & interesting projects.
 
 <br/>
 
@@ -22,7 +19,7 @@ Focused on MERN Stack, Next.js, TypeScript, Backend Engineering, and AI-powered 
 
 🧠 About Me
 name: "Hafiz Aneeb Azmat"
-role: "Full-Stack AI Engineer"
+role: "Full-Stack Developer | AI Engineer in Progress"
 
 education:
   university: "COMSATS University Islamabad, Lahore Campus"
@@ -45,8 +42,8 @@ currently_learning:
   - Deep Learning
   - Generative AI
   - LLM Applications
-  - AI Agents
   - RAG
+  - AI Agents
 
 building:
   - Full-Stack Web Applications
@@ -62,10 +59,10 @@ open_to:
   - Interesting Projects
 
 fun_fact: "I enjoy turning ideas into working applications 🚀"
-💻 What I Do
+💼 What I Do
 🌐 Full-Stack Development
 
-I build modern full-stack applications with a focus on clean architecture, responsive interfaces, APIs, authentication, and scalable backend systems.
+I build modern full-stack applications with a focus on responsive interfaces, reusable components, APIs, authentication, databases, and scalable backend systems.
 
 React.js
 Next.js
@@ -76,12 +73,12 @@ Express.js
 REST APIs
 MongoDB
 PostgreSQL
-Authentication & Authorization
 Redux Toolkit
+Authentication & Authorization
 Responsive UI/UX
 🤖 AI & Generative AI
 
-I'm currently expanding my development skills toward AI Engineering and Generative AI, focusing on building practical AI-powered applications.
+I'm currently expanding my development skills toward AI Engineering and Generative AI, focusing on understanding and building practical AI-powered applications.
 
 Machine Learning
 Deep Learning
@@ -94,7 +91,7 @@ Vector Databases
 AI-powered Applications
 ⚙️ Backend & Development
 
-I have a strong interest in backend development and understanding how complete applications work behind the scenes.
+I have a strong interest in backend engineering and understanding how complete applications work behind the scenes.
 
 Node.js / Express
 FastAPI
@@ -111,7 +108,7 @@ API Development
 
 MERN Stack · React.js · Node.js · Express.js · MongoDB · Redux Toolkit · JWT
 
-A full-stack real estate marketplace designed to connect property buyers, sellers, and agents through a modern web platform.
+A full-stack real estate marketplace designed to provide users with a modern platform for discovering and managing property listings.
 
 Features include:
 
@@ -123,17 +120,18 @@ Property details and image galleries
 Create, update, and delete property listings
 User property management
 Favorites / wishlist functionality
-Responsive React frontend
+Protected routes
+Role-based access
 RESTful backend APIs
 MongoDB database integration
-Redux Toolkit for state management
-Protected routes and role-based access
-Modern and responsive UI
+Redux Toolkit state management
+Responsive React frontend
+Modern responsive UI
 🛒 Multi-Vendor E-Commerce Platform
 
 MERN · React · Node.js · Express · MongoDB · Redux Toolkit · Stripe
 
-A full-stack multi-vendor e-commerce application covering modern frontend and backend development concepts.
+A full-stack multi-vendor e-commerce platform covering modern frontend, backend, state management, authentication, order management, and payment integration.
 
 Features include:
 
@@ -141,34 +139,60 @@ Multi-vendor architecture
 Product management
 Shopping cart
 Wishlist
-Authentication
+User authentication
 Redux Toolkit state management
 REST APIs
 Order management
-Payment integration
+Payment integration with Stripe
 Responsive UI
+Backend API integration
 ✈️ Trippy Travels
 
 React.js · JavaScript · Responsive UI · Vercel
 
-A responsive travel website built with React and reusable components.
+A responsive travel website built using React with reusable components and a modern user interface.
 
-Dynamic components
+Features include:
+
+Dynamic React components
+Reusable component architecture
 Responsive design
 Modern UI
-Component-based architecture
+Mobile-friendly interface
 Vercel deployment
+
+Live Demo: Trippy Travels
+GitHub: Trippy Travels Repository
+
 🍃 EcoFoodie
 
 React.js · JavaScript · Responsive UI · Vercel
 
-A modern food-focused web application built using React with reusable UI components and responsive design.
+A modern food-focused web application built with React, reusable components, and responsive design.
+
+Features include:
 
 Responsive interface
 Reusable React components
 Modern UI
+Component-based architecture
 Vercel deployment
+
+Live Demo: EcoFoodie
+
 🛠️ Tech Stack
+🧠 AI / ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-0077B5?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-3ECF8E?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
+
+</div>
+
 💻 Languages
 
 <div align="center">
@@ -194,18 +218,6 @@ Vercel deployment
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-
-</div>
-
-🧠 AI / ML
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-0077B5?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-3ECF8E?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
 
 </div>
 
@@ -240,11 +252,12 @@ Improved frontend and backend engineering practices
 Collaborated within a developer-focused learning environment
 Applied modern JavaScript and MERN technologies to practical projects
 🎓 Education
-
 COMSATS University Islamabad — Lahore Campus
 
 B.S. Computer Science
+
 Feb 2025 – Feb 2029
+
 CGPA: 3.87 / 4.00
 
 Relevant Coursework:
