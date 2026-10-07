@@ -22,7 +22,7 @@ Focused on **MERN Stack, Next.js, TypeScript, Backend Engineering, and AI-powere
 
 ```yaml
 name: "Hafiz Aneeb Azmat"
-role: "Full-Stack Developer | AI Engineer in Progress"
+role: "Full-Stack Developer | AI Engineering in Progress"
 
 education:
   university: "COMSATS University Islamabad, Lahore Campus"
