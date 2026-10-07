@@ -4,7 +4,7 @@
 
 Building full-stack web applications and continuously exploring Artificial Intelligence and Generative AI.<br/>
 Focused on MERN Stack, Next.js, TypeScript, Backend Engineering, and AI-powered applications.<br/>
-📍 Lahore, Pakistan 🇵🇰 — open to opportunities, collaborations & interesting projects.
+📍 Lahore, Pakistan 🇵🇰 — open to opportunities, collaborations & open source.
 
 <br/>
 
@@ -14,8 +14,6 @@ Focused on MERN Stack, Next.js, TypeScript, Backend Engineering, and AI-powered 
 
 
 </div>
-
-<br/>
 
 🧠 About Me
 name: "Hafiz Aneeb Azmat"
@@ -28,14 +26,12 @@ education:
   cgpa: "3.87 / 4.00"
 
 focus:
+  - Artificial Intelligence & Generative AI
+  - Agentic AI & LLM Applications
   - Full-Stack Development
   - MERN Stack
-  - Next.js & TypeScript
   - Backend Engineering
-  - REST APIs
-  - Artificial Intelligence
-  - Generative AI
-  - Agentic AI
+  - RAG & AI Applications
 
 currently_learning:
   - Machine Learning
@@ -60,25 +56,9 @@ open_to:
 
 fun_fact: "I enjoy turning ideas into working applications 🚀"
 💼 What I Do
-🌐 Full-Stack Development
-
-I build modern full-stack applications with a focus on responsive interfaces, reusable components, APIs, authentication, databases, and scalable backend systems.
-
-React.js
-Next.js
-JavaScript
-TypeScript
-Node.js
-Express.js
-REST APIs
-MongoDB
-PostgreSQL
-Redux Toolkit
-Authentication & Authorization
-Responsive UI/UX
 🤖 AI & Generative AI
 
-I'm currently expanding my development skills toward AI Engineering and Generative AI, focusing on understanding and building practical AI-powered applications.
+I'm currently expanding my development skills toward AI Engineering and Generative AI, with a focus on understanding and building practical AI-powered applications.
 
 Machine Learning
 Deep Learning
@@ -89,16 +69,33 @@ AI Agents
 Transformers
 Vector Databases
 AI-powered Applications
-⚙️ Backend & Development
+💻 Full-Stack Development
+
+I build complete web applications from responsive frontend interfaces to backend APIs, databases, authentication, and deployment.
+
+React.js
+Next.js
+JavaScript
+TypeScript
+Node.js
+Express.js
+FastAPI
+MongoDB
+PostgreSQL
+REST APIs
+Authentication & Authorization
+Redux Toolkit
+Responsive UI/UX
+⚙️ Backend & Systems
 
 I have a strong interest in backend engineering and understanding how complete applications work behind the scenes.
 
 Node.js / Express
 FastAPI
-REST API Design
 MongoDB
 PostgreSQL
 Redis
+REST API Design
 JWT Authentication
 Git & GitHub
 Docker
@@ -143,7 +140,7 @@ User authentication
 Redux Toolkit state management
 REST APIs
 Order management
-Payment integration with Stripe
+Stripe payment integration
 Responsive UI
 Backend API integration
 ✈️ Trippy Travels
@@ -189,11 +186,11 @@ Live Demo: EcoFoodie
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLMs-0077B5?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG-3ECF8E?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-0077B5?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-3ECF8E?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge"/>
 
 </div>
 
-💻 Languages
+🔤 Languages
 
 <div align="center">
 
@@ -221,7 +218,7 @@ Live Demo: EcoFoodie
 
 </div>
 
-☁️ Tools & DevOps
+☁️ Cloud & DevOps
 
 <div align="center">
 
@@ -229,12 +226,32 @@ Live Demo: EcoFoodie
 
 </div>
 
+📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aneebazmat&show_icons=true&theme=react&hide_border=true&count_private=true" />
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebazmat&layout=compact&theme=react&hide_border=true" />
+
+<br/><br/>
+
+<img width="68%" src="https://streak-stats.demolab.com/?user=aneebazmat&theme=react&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+🏆 Achievements
+🏅 Bronze Fellow — Dev Weekends MERN Fellowship
+🎓 Selected as a Bronze Fellow from 800+ applicants
+💻 Completed multiple full-stack web development projects
+🚀 Built and deployed React applications using Vercel
+🤖 Currently progressing toward AI Engineering & Generative AI
 💼 Experience
 Full Stack Developer — 3S Solutions
 
 Feb 2026 – Present
 
-Working on full-stack web applications and strengthening practical experience across frontend, backend, APIs, databases, and modern JavaScript technologies.
+Working on full-stack web applications and gaining practical experience across frontend, backend, APIs, databases, and modern JavaScript technologies.
 
 FrontEnd Developer — HexSoftwares
 
@@ -242,15 +259,6 @@ Aug 2025 – Nov 2025
 
 Worked on frontend development, responsive interfaces, reusable components, and modern web development practices.
 
-🏅 Bronze Fellow — Dev Weekends MERN Fellowship
-
-Selected as a Bronze Fellow in the Dev Weekends MERN Fellowship from 800+ applicants.
-
-Strengthened practical MERN Stack development skills
-Worked on real-world development workflows
-Improved frontend and backend engineering practices
-Collaborated within a developer-focused learning environment
-Applied modern JavaScript and MERN technologies to practical projects
 🎓 Education
 COMSATS University Islamabad — Lahore Campus
 
@@ -268,20 +276,6 @@ Data Structures & Algorithms
 Databases
 Operating Systems
 Discrete Mathematics
-📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aneebazmat&show_icons=true&theme=react&hide_border=true&count_private=true" />
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebazmat&layout=compact&theme=react&hide_border=true" />
-
-<br/><br/>
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=aneebazmat&theme=react&hide_border=true&cache_seconds=1800" />
-
-</div>
-
 🚀 Current Direction
 
 I'm currently transitioning from Full-Stack Development toward AI Engineering, combining my web development background with Machine Learning, Deep Learning, Generative AI, LLMs, RAG, and AI Agents.
